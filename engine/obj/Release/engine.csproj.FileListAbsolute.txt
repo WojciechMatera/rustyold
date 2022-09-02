@@ -1,0 +1,6 @@
+C:\proj\nowa_gra\czesc1\engine\bin\Release\engine.dll
+C:\proj\nowa_gra\czesc1\engine\bin\Release\engine.pdb
+C:\proj\nowa_gra\czesc1\engine\obj\Release\engine.csprojAssemblyReference.cache
+C:\proj\nowa_gra\czesc1\engine\obj\Release\engine.csproj.CoreCompileInputs.cache
+C:\proj\nowa_gra\czesc1\engine\obj\Release\engine.dll
+C:\proj\nowa_gra\czesc1\engine\obj\Release\engine.pdb
